@@ -5,6 +5,9 @@
   </a>
 </p>
 <h1 align="center">
+  Name: Jasmine Kokkat
+  Year of Study: 3
+  I added the navbar and modified the text colour to white in the header.js file. 
   Gatsby's default starter
 </h1>
 
