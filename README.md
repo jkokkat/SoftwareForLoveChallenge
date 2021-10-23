@@ -4,10 +4,10 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
+<p>  Name: Jasmine Kokkat </br>
+  Year of Study: 3 </br>
+  I added the navbar and modified the text colour to white in the header.js file. </p>
 <h1 align="center">
-  Name: Jasmine Kokkat
-  Year of Study: 3
-  I added the navbar and modified the text colour to white in the header.js file. 
   Gatsby's default starter
 </h1>
 
